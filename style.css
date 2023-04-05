@@ -1,0 +1,29 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: rgb(85, 73, 73);
+    background-image: url('https://tse1.mm.bing.net/th?id=OIP.lOnYpvqjvu7FW0Nyv6w-cQHaFj&pid=Api&P=0');
+  }
+  
+  main {
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  
+  section {
+    margin-top: 100px;
+    display: grid;
+    place-items: center;
+    border: 2px solid rgb(211, 171, 9);
+    padding: 20px 10px;
+    background-color: rgb(125, 4, 4);
+    background-image: url('https://tse4.mm.bing.net/th?id=OIP.E5LWlyXNLDakm-Dqbh2qrwHaHa&pid=Api&P=0');
+  }
+  #title{
+    color: azure;
+  }
+  
+  h1 {
+    font-size: 2rem;
+  }
+  
